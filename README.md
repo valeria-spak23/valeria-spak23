@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, my name is Valeria Spak. </h1>
+<h2> <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hey! My name is Valeria Spak </h1>
 <h3 align="left">About me: </h3>
 
 <!-- <img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg"> -->
