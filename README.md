@@ -1,12 +1,12 @@
 <h2> <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hey! My name is Valeria Spak </h1>
 <h3 align="left">About me: </h3>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!-- <img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg"> -->
 
 <p style="margin-top: 6px; line-height:26x; font-size:16spx;">
 	A passionate and curious computer science student who believes code is more than just syntax — it’s a way to create, connect, and inspire. I love to develop, design, innovate, and experiment, always eager to take on new challenges and grow through them. I think in a pragmatic yet creative way, constantly learning new skills and finding joy in applying them to real-world problems. I care deeply about clean, efficient, and secure code, and I have a natural love for logic building and the technical depth of backend development. Competitive programming (especially in C++) is my playground, where I sharpen my problem-solving mindset. Outside of coding, I enjoy meeting new people, sharing ideas, and helping others learn programming — because knowledge is best when it’s shared. With an exciting journey ahead, I’m eager to join a dynamic, growth-driven environment that values innovation, collaboration, and continuous learning. 🌟</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=valeria-spak23&label=Profile%20views&color=0e75b6&style=flat" alt="valeria-spak23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valeria-spak23&label=Profile%20views&color=0e75b6&style=flat" alt="valeria-spak23" /> </p>
 
 - 📫 How to reach me **valeriaspak23@gmail.com**
 
