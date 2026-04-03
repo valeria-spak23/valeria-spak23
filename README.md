@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **My favorite language changes every semester**
 
-| Currently Learning | BSc, CompSci |
+| Currently Learning | Python |
 | ------------------ | ----------- |
 
 <hr>
